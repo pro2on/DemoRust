@@ -11,4 +11,4 @@ This repository contains a tiny demo Android application showcasing how to integ
 - The main goal of this project is to serve as a starting point or reference for developers interested in adding Rust code to their Android applications.
 
 ## Screenshot:
-![screenshot-1746454302975.png](screenshots/screenshot-1746454302975.png)
+<img src="screenshots/screenshot-1746454302975.png" width="300"  />
